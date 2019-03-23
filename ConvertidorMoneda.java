@@ -1,5 +1,8 @@
 
 package Formulario;
+
+import java.util.Locale;
+
 /**
  *
  * @author PC-DESKTOP
@@ -10,6 +13,8 @@ public class ConvertidorMoneda extends javax.swing.JFrame {
      */
     public ConvertidorMoneda() {
         initComponents();
+        this.setLocationRelativeTo(null);
+        
     }
 
     /**
